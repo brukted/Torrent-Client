@@ -17,3 +17,11 @@ The torrent client is built using the following key components:
 - Fault tolerance: The client is able to recover from errors and continue downloading and uploading files, by retrying failed operations and utilizing disk persisted bitfield.
 
 Overall, the project provides a functional and efficient torrent client that can handle large file downloads with ease. The use of Go's concurrency features ensures that the client can handle multiple downloads and uploads simultaneously.
+
+
+## Group Members
+* Bruk Tedla
+* Abel Mekonen
+* Eyob Zebene
+* Abdulaziz Ali
+* Bahailu Abera
